@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container mx-auto flex flex-col md:flex-row items-center justify-between px-4 py-12 gap-12 text-white-700">
       <div className="flex-1 flex flex-col items-start max-w-xl space-y-4">
-        <h3 className="text-2xl font-semibold tracking-tight">Hello, I'm</h3>
+        <h3 className="text-2xl font-semibold tracking-tight">Hello, I&apos;m</h3>
         <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-white-900 drop-shadow">
           Rahul Kumar <br /> Bharti
         </h1>
